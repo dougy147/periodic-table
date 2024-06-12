@@ -1,4 +1,4 @@
-atomic_number,element,symbol,atomic_mass,melting_point_kelvin,boiling_point_kelvin,density_grams_per_cubic_centimeter,phase_at_room_temp,element_classification,period_number,group_number,group_name,
+atomic_number,element,symbol,atomic_mass,table_row,table_col,color,melting_point_kelvin,boiling_point_kelvin,density_grams_per_cubic_centimeter,phase_at_room_temp,element_classification,period_number,group_number,group_name,
 1,Hydrogen,H,1.00794,0,0,RED,13.81,20.28,0.00008988,Gas,Non-metal,1,1,none,
 2,Helium,He,4.002602,0,18,RED,0.95,4.22,0.0001785,Gas,Non-metal,1,18,Noble Gas,
 3,Lithium,Li,6.941,1,0,RED,453.65,1615,0.534,Solid,Metal,2,1,Alkali Metal,
